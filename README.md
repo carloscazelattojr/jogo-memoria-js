@@ -3,7 +3,7 @@
 Projeto para estudar HTML CSS e JS
 
 
-## API 
+## Link do Jogo
 
 `http://www.carlosjunior.com.br/jogodamemoria/`
  
