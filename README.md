@@ -17,5 +17,5 @@ Projeto para estudar HTML CSS e JS
 Tela Principal do Jogo
 
 <h1 align="center">
-    <img alt="Jogo Da Memória" title="#jogoMemoria" src="https://github.com/carlosjunior1983/jogo-memoria-js/blob/master/img/site.png"  /><br>
+    <img alt="Jogo Da Memória" title="#jogoMemoria" src="https://github.com/carlosjunior1983/jogo-memoria-js/blob/master/img/site.PNG"  /><br>
 </h1>
