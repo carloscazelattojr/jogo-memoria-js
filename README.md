@@ -1,10 +1,21 @@
-# Jogo da Memória (simples) em HTML CSS e JS - Personagens do Mario Bros.
+## Jogo da Memória (simples) em HTML CSS e JAVASCRIPT
 
-Desenvolvimento de um jogo da memória, simples, em HTML, CSS e JS dos personágens do Mario Bros.
+Projeto para estudar HTML CSS e JS
 
 
-# Tecnologias
- `HTML` `CSS` `JAVASCRIPT`
+## API 
 
- # Link 
- www.carlosjunior.com.br/jogodamemoria
+`http://www.carlosjunior.com.br/jogodamemoria/`
+ 
+## Tecnologia
+
+  `HTML` `CSS` `Javascript`
+
+
+## Imagens do projeto
+
+Tela Principal do Jogo
+
+<h1 align="center">
+    <img alt="Jogo Da Memória" title="#jogoMemoria" src="https://github.com/carlosjunior1983/jogo-memoria-js/blob/master/img/site.png"  /><br>
+</h1>
