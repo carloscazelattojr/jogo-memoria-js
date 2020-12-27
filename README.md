@@ -1,15 +1,11 @@
 ## Jogo da Memória (simples) em HTML CSS e JAVASCRIPT
 
-Projeto para estudar HTML CSS e JS
+Projeto de estudos desenvolvido durante o treinamento da DIO, onde utiliza as tecnologias HTML, CSS e Javascript para desenvolver o jogo da memória
 
 
 **Versão online**
 * [Site](http://www.carlosjunior.com.br/projects/jogodamemoria)
 
-
-## Link do Jogo
-
-`http://www.carlosjunior.com.br/jogodamemoria/`
  
 ## Tecnologia
 
