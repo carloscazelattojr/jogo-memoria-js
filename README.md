@@ -3,6 +3,10 @@
 Projeto para estudar HTML CSS e JS
 
 
+**Versão online**
+* [Site](http://www.carlosjunior.com.br/projects/jogodamemoria)
+
+
 ## Link do Jogo
 
 `http://www.carlosjunior.com.br/jogodamemoria/`
